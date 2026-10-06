@@ -1,0 +1,20 @@
+{
+  "classifier": "multinomial",
+  "n_train": 523,
+  "n_test": 131,
+  "cv_f1_macro_mean": 0.9923355119825708,
+  "cv_f1_macro_std": 0.009387247175242525,
+  "accuracy": 0.9923664122137404,
+  "f1_macro": 0.9923646325115113,
+  "confusion_matrix": [
+    [
+      64,
+      1
+    ],
+    [
+      0,
+      66
+    ]
+  ],
+  "vocabulary_size": 375
+}
